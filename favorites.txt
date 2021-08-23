@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 Peppermint Ice Cream
 Soft Pretzels
 Celery
-=======
 Batman
 Pufi
 Nu stiu
->>>>>>> movies
